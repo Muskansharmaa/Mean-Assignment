@@ -2,15 +2,15 @@
   "name": "mean_assignment",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "server3.js",
   "scripts": {
-  
-    "start": "nodemon app.js"
+    "start": "nodemon server3.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "ejs": "^3.1.6",
     "express": "^4.17.3"
   },
   "devDependencies": {
